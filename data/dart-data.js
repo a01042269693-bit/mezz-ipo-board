@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-09-18T18:42:02+09:00",
+ "generatedAt": "2026-09-21T07:08:08+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -169,7 +169,7 @@ window.DART_DATA = {
    "memo": "신고서상 모집가액(밴드 하단일 수 있음)",
    "rceptNo": "20260908000396",
    "rceptDt": "2026-09-08",
-   "report": "[기재정정]증권신고서(지분증권)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000396",
    "src": "DART"
   },
@@ -961,7 +961,7 @@ window.DART_DATA = {
    "exchangeTarget": "",
    "rceptNo": "20260909000478",
    "rceptDt": "2026-09-09",
-   "report": "주요사항보고서(전환사채권발행결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909000478",
    "src": "DART"
   },
@@ -4729,7 +4729,7 @@ window.DART_DATA = {
    "newShares": "5725190",
    "rceptNo": "20260910000322",
    "rceptDt": "2026-09-10",
-   "report": "주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910000322",
    "src": "DART"
   },
@@ -4787,7 +4787,7 @@ window.DART_DATA = {
    "newShares": "9917355",
    "rceptNo": "20260909000002",
    "rceptDt": "2026-09-09",
-   "report": "주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909000002",
    "src": "DART"
   },
@@ -4891,7 +4891,7 @@ window.DART_DATA = {
    "newShares": "80000",
    "rceptNo": "20260908000184",
    "rceptDt": "2026-09-08",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000184",
    "src": "DART"
   },
