@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-09-21T07:08:08+09:00",
+ "generatedAt": "2026-09-21T12:40:18+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -3942,6 +3942,32 @@ window.DART_DATA = {
   }
  ],
  "rights": [
+  {
+   "id": "dart-PAID-00587925-20260921",
+   "name": "모아라이프플러스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "2000000",
+   "rceptNo": "20260921000097",
+   "rceptDt": "2026-09-21",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921000097",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01688896-20260921",
+   "name": "삼성FN리츠",
+   "market": "코스피",
+   "kind": "유상증자",
+   "method": "주주배정후 실권주 일반공모",
+   "newShares": "19000000",
+   "rceptNo": "20260921000086",
+   "rceptDt": "2026-09-21",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921000086",
+   "src": "DART"
+  },
   {
    "id": "dart-PAID-00307028-20260918",
    "name": "경남제약",
