@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-09-22T07:08:42+09:00",
+ "generatedAt": "2026-09-22T12:38:19+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -4206,6 +4206,19 @@ window.DART_DATA = {
   }
  ],
  "rights": [
+  {
+   "id": "dart-PAID-01397903-20260922",
+   "name": "엔젠바이오",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "주주배정후 실권주 일반공모",
+   "newShares": "7150000",
+   "rceptNo": "20260922000105",
+   "rceptDt": "2026-09-22",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260922000105",
+   "src": "DART"
+  },
   {
    "id": "dart-PAID-00587925-20260921",
    "name": "모아라이프플러스",
