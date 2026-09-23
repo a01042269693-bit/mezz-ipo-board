@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-09-23T07:08:21+09:00",
+ "generatedAt": "2026-09-23T12:39:08+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -480,6 +480,31 @@ window.DART_DATA = {
  ],
  "mezz": [
   {
+   "id": "dart-CB-00186939-6",
+   "issuer": "특수건설",
+   "market": "코스닥",
+   "kind": "CB",
+   "series": "6",
+   "method": "사모",
+   "size": "100",
+   "coupon": "0",
+   "ytm": "0",
+   "convPrice": "4139",
+   "refix": "있음",
+   "refixFloor": "최저 2,898원",
+   "boardDate": "2026-09-21",
+   "issueDate": "2026-09-29",
+   "convStart": "2027-09-29",
+   "convEnd": "2031-08-29",
+   "maturity": "2031-09-29",
+   "exchangeTarget": "",
+   "rceptNo": "20260923000131",
+   "rceptDt": "2026-09-23",
+   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923000131",
+   "src": "DART"
+  },
+  {
    "id": "dart-CB-01141599-7",
    "issuer": "아리바이오LAB",
    "market": "코스닥",
@@ -602,31 +627,6 @@ window.DART_DATA = {
    "rceptDt": "2026-09-21",
    "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921000320",
-   "src": "DART"
-  },
-  {
-   "id": "dart-CB-00186939-6",
-   "issuer": "특수건설",
-   "market": "코스닥",
-   "kind": "CB",
-   "series": "6",
-   "method": "사모",
-   "size": "100",
-   "coupon": "0",
-   "ytm": "0",
-   "convPrice": "4139",
-   "refix": "있음",
-   "refixFloor": "최저 2,898원",
-   "boardDate": "2026-09-21",
-   "issueDate": "2026-09-29",
-   "convStart": "2027-09-29",
-   "convEnd": "2031-08-29",
-   "maturity": "2031-09-29",
-   "exchangeTarget": "",
-   "rceptNo": "20260921000401",
-   "rceptDt": "2026-09-21",
-   "report": "주요사항보고서(전환사채권발행결정)",
-   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921000401",
    "src": "DART"
   },
   {
@@ -4281,6 +4281,32 @@ window.DART_DATA = {
   }
  ],
  "rights": [
+  {
+   "id": "dart-PAID-00406329-20260923",
+   "name": "루멘스바이오스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "1785714",
+   "rceptNo": "20260923000238",
+   "rceptDt": "2026-09-23",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923000238",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01032422-20260923",
+   "name": "에이치앤엘어드밴스드",
+   "market": "비상장",
+   "kind": "유상증자",
+   "method": "주주배정증자",
+   "newShares": "24000000",
+   "rceptNo": "20260923000183",
+   "rceptDt": "2026-09-23",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923000183",
+   "src": "DART"
+  },
   {
    "id": "dart-PAID-01397903-20260922",
    "name": "엔젠바이오",
