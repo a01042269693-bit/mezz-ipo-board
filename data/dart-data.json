@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T18:43:27+09:00",
+ "generatedAt": "2026-09-25T07:09:10+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -1044,7 +1044,7 @@
    "exchangeTarget": "",
    "rceptNo": "20260914000312",
    "rceptDt": "2026-09-14",
-   "report": "주요사항보고서(전환사채권발행결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914000312",
    "src": "DART"
   },
@@ -5047,6 +5047,25 @@
    "report": "[기재정정]주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915000284",
    "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00252269-20260915",
+   "name": "아이에이",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "주주배정",
+   "rceptNo": "20260915000431",
+   "rceptDt": "2026-09-15",
+   "report": "[기재정정]증권신고서(지분증권)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260915000431",
+   "src": "DART",
+   "recordDate": "2026-10-01",
+   "subStart": "2026-11-09",
+   "subEnd": "2026-11-10",
+   "payDate": "2026-11-12",
+   "price": "2775",
+   "size": "103",
+   "offerRcept": "20260915000431"
   },
   {
    "id": "dart-FREE-00349732-2026-10-30",
