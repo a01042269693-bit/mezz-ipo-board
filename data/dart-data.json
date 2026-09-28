@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T18:45:55+09:00",
+ "generatedAt": "2026-09-29T07:08:47+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -4438,6 +4438,19 @@
    "rceptDt": "2026-09-28",
    "report": "주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928000378",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01453944-20260928",
+   "name": "벡트",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "3673610",
+   "rceptNo": "20260928000391",
+   "rceptDt": "2026-09-28",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928000391",
    "src": "DART"
   },
   {
