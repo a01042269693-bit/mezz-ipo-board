@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-09-29T07:08:47+09:00",
+ "generatedAt": "2026-09-29T12:40:52+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -4389,6 +4389,62 @@ window.DART_DATA = {
  ],
  "rights": [
   {
+   "id": "dart-FREE-01267958-2026-10-14",
+   "name": "프로티아",
+   "market": "코스닥",
+   "kind": "무상증자",
+   "method": "",
+   "ratio": "0.5",
+   "newShares": "6439857",
+   "recordDate": "2026-10-14",
+   "listingDate": "2026-11-05",
+   "boardDate": "2026-09-29",
+   "rceptNo": "20260929000168",
+   "rceptDt": "2026-09-29",
+   "report": "주요사항보고서(무상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929000168",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00587925-20260929",
+   "name": "모아라이프플러스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "4000000",
+   "rceptNo": "20260929000083",
+   "rceptDt": "2026-09-29",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929000083",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01042650-20260929",
+   "name": "큐리언트",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "주주배정후 실권주 일반공모",
+   "newShares": "7100000",
+   "rceptNo": "20260929000138",
+   "rceptDt": "2026-09-29",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929000138",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01335374-20260929",
+   "name": "비욘드바이오",
+   "market": "비상장",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "",
+   "rceptNo": "20260929000017",
+   "rceptDt": "2026-09-29",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929000017",
+   "src": "DART"
+  },
+  {
    "id": "dart-PAID-00587925-20260928",
    "name": "모아라이프플러스",
    "market": "코스닥",
@@ -8301,6 +8357,19 @@ window.DART_DATA = {
    "rceptDt": "2026-05-26",
    "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260526000346",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01335374-20260526",
+   "name": "비욘드바이오",
+   "market": "비상장",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "",
+   "rceptNo": "20260526000516",
+   "rceptDt": "2026-05-26",
+   "report": "",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260526000516",
    "src": "DART"
   },
   {
