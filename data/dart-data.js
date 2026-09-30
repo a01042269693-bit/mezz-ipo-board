@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-09-30T18:47:10+09:00",
+ "generatedAt": "2026-10-01T07:08:58+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -716,6 +716,31 @@ window.DART_DATA = {
    "rceptDt": "2026-09-30",
    "report": "주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000411",
+   "src": "DART"
+  },
+  {
+   "id": "dart-CB-00151605-16",
+   "issuer": "청보",
+   "market": "코스닥",
+   "kind": "CB",
+   "series": "16",
+   "method": "사모",
+   "size": "10",
+   "coupon": "0",
+   "ytm": "0",
+   "convPrice": "2204",
+   "refix": "있음",
+   "refixFloor": "최저 1,543원",
+   "boardDate": "2026-09-30",
+   "issueDate": "2026-10-08",
+   "convStart": "2027-10-08",
+   "convEnd": "2029-09-08",
+   "maturity": "2029-10-08",
+   "exchangeTarget": "",
+   "rceptNo": "20260930000878",
+   "rceptDt": "2026-09-30",
+   "report": "주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000878",
    "src": "DART"
   },
   {
@@ -4679,6 +4704,19 @@ window.DART_DATA = {
    "src": "DART"
   },
   {
+   "id": "dart-PAID-00110884-20260930",
+   "name": "엠젠솔루션",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "1464128",
+   "rceptNo": "20260930000870",
+   "rceptDt": "2026-09-30",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000870",
+   "src": "DART"
+  },
+  {
    "id": "dart-FREE-01267958-2026-10-14",
    "name": "프로티아",
    "market": "코스닥",
@@ -6081,7 +6119,7 @@ window.DART_DATA = {
    "newShares": "3843197",
    "rceptNo": "20260909000543",
    "rceptDt": "2026-09-09",
-   "report": "주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909000543",
    "src": "DART"
   },
