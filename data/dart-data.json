@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T07:08:46+09:00",
+ "generatedAt": "2026-09-30T12:41:04+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -4445,6 +4445,19 @@
   }
  ],
  "rights": [
+  {
+   "id": "dart-PAID-00288343-20260930",
+   "name": "삼영이엔씨",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "20000000",
+   "rceptNo": "20260930000221",
+   "rceptDt": "2026-09-30",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000221",
+   "src": "DART"
+  },
   {
    "id": "dart-FREE-01267958-2026-10-14",
    "name": "프로티아",
