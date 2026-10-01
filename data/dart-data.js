@@ -1,7 +1,26 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-01T07:08:58+09:00",
+ "generatedAt": "2026-10-01T12:42:11+09:00",
  "lookbackDays": 10,
  "ipos": [
+  {
+   "id": "dart-IPO-00534729-20261001",
+   "name": "디티에스",
+   "market": "",
+   "subStart": "2026-10-13",
+   "subEnd": "2026-10-14",
+   "refund": "2026-10-16",
+   "finalPrice": "",
+   "bandLow": "17000",
+   "amount": "379",
+   "shares": "2228917",
+   "underwriter": "대신증권",
+   "memo": "신고서상 모집가액(밴드 하단일 수 있음)",
+   "rceptNo": "20261001000078",
+   "rceptDt": "2026-10-01",
+   "report": "[기재정정]증권신고서(지분증권)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001000078",
+   "src": "DART"
+  },
   {
    "id": "dart-IPO-01658035-20260929",
    "name": "옵토닉스",
@@ -1639,7 +1658,7 @@ window.DART_DATA = {
    "exchangeTarget": "",
    "rceptNo": "20260908000001",
    "rceptDt": "2026-09-08",
-   "report": "주요사항보고서(전환사채권발행결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260908000001",
    "src": "DART"
   },
@@ -4495,6 +4514,23 @@ window.DART_DATA = {
   }
  ],
  "rights": [
+  {
+   "id": "dart-FREE-00121534-2026-10-20",
+   "name": "MH에탄올",
+   "market": "코스피",
+   "kind": "무상증자",
+   "method": "",
+   "ratio": "1",
+   "newShares": "6201433",
+   "recordDate": "2026-10-20",
+   "listingDate": "2026-11-10",
+   "boardDate": "2026-10-01",
+   "rceptNo": "20261001000135",
+   "rceptDt": "2026-10-01",
+   "report": "주요사항보고서(무상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001000135",
+   "src": "DART"
+  },
   {
    "id": "dart-PAID-00288343-20260930",
    "name": "삼영이엔씨",
