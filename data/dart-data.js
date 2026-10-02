@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-02T07:08:39+09:00",
+ "generatedAt": "2026-10-02T12:41:38+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -4577,6 +4577,19 @@ window.DART_DATA = {
   }
  ],
  "rights": [
+  {
+   "id": "dart-PAID-01335374-20261002",
+   "name": "비욘드바이오",
+   "market": "비상장",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "",
+   "rceptNo": "20261002000034",
+   "rceptDt": "2026-10-02",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000034",
+   "src": "DART"
+  },
   {
    "id": "dart-FREE-00121534-2026-10-20",
    "name": "MH에탄올",
