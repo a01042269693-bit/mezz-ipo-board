@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-07T07:08:26+09:00",
+ "generatedAt": "2026-10-07T12:42:57+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -4715,6 +4715,43 @@ window.DART_DATA = {
   }
  ],
  "rights": [
+  {
+   "id": "dart-FREE-00605124-2026-10-22",
+   "name": "알파칩스",
+   "market": "코스닥",
+   "kind": "무상증자",
+   "method": "",
+   "ratio": "1",
+   "newShares": "6661742",
+   "recordDate": "2026-10-22",
+   "listingDate": "2026-11-19",
+   "boardDate": "2026-10-07",
+   "rceptNo": "20261007000130",
+   "rceptDt": "2026-10-07",
+   "report": "주요사항보고서(무상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000130",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00508344-20261007",
+   "name": "SK디앤디",
+   "market": "코스피",
+   "kind": "유상증자",
+   "method": "주주배정증자",
+   "newShares": "44681000",
+   "rceptNo": "20261007000004",
+   "rceptDt": "2026-10-07",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000004",
+   "src": "DART",
+   "recordDate": "2026-09-02",
+   "subStart": "2026-10-12",
+   "subEnd": "2026-10-13",
+   "payDate": "2026-10-15",
+   "price": "2260",
+   "size": "1010",
+   "offerRcept": "20260909000477"
+  },
   {
    "id": "dart-FREE-00102140-2026-10-21",
    "name": "케이아이이",
