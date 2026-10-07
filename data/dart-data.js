@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-07T18:47:59+09:00",
+ "generatedAt": "2026-10-08T07:09:03+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
