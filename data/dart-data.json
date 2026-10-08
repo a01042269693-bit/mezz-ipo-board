@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T07:09:03+09:00",
+ "generatedAt": "2026-10-08T12:43:09+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -4834,6 +4834,19 @@
   }
  ],
  "rights": [
+  {
+   "id": "dart-PAID-01534610-20261008",
+   "name": "브이페이먼츠",
+   "market": "비상장",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "2000000",
+   "rceptNo": "20261008000037",
+   "rceptDt": "2026-10-08",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000037",
+   "src": "DART"
+  },
   {
    "id": "dart-FREE-00605124-2026-10-22",
    "name": "알파칩스",
