@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-12T07:08:28+09:00",
+ "generatedAt": "2026-10-12T12:47:05+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -5004,6 +5004,32 @@ window.DART_DATA = {
   }
  ],
  "rights": [
+  {
+   "id": "dart-PAID-00307028-20261012",
+   "name": "경남제약",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "주주배정증자",
+   "newShares": "",
+   "rceptNo": "20261012000071",
+   "rceptDt": "2026-10-12",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000071",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00923826-20261012",
+   "name": "일월지엠엘",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "1514385",
+   "rceptNo": "20261012000070",
+   "rceptDt": "2026-10-12",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000070",
+   "src": "DART"
+  },
   {
    "id": "dart-PAID-01534610-20261008",
    "name": "브이페이먼츠",
