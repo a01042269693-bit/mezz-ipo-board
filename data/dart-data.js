@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-12T18:51:40+09:00",
+ "generatedAt": "2026-10-13T07:09:37+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -5272,7 +5272,7 @@ window.DART_DATA = {
    "newShares": "2347417",
    "rceptNo": "20261012000509",
    "rceptDt": "2026-10-12",
-   "report": "",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000509",
    "src": "DART"
   },
@@ -5313,6 +5313,32 @@ window.DART_DATA = {
    "rceptDt": "2026-10-12",
    "report": "[기재정정]주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000456",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00528791-20261012",
+   "name": "제일엠앤에스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "145287528",
+   "rceptNo": "20261012000514",
+   "rceptDt": "2026-10-12",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000514",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00587925-20261012",
+   "name": "모아라이프플러스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "2000000",
+   "rceptNo": "20261012000513",
+   "rceptDt": "2026-10-12",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000513",
    "src": "DART"
   },
   {
@@ -6063,7 +6089,7 @@ window.DART_DATA = {
    "newShares": "4000000",
    "rceptNo": "20260929000083",
    "rceptDt": "2026-09-29",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929000083",
    "src": "DART"
   },
