@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T07:09:37+09:00",
+ "generatedAt": "2026-10-13T12:45:52+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -860,6 +860,31 @@
  ],
  "mezz": [
   {
+   "id": "dart-CB-00145598-4",
+   "issuer": "이연제약",
+   "market": "코스피",
+   "kind": "CB",
+   "series": "4",
+   "method": "사모",
+   "size": "110",
+   "coupon": "0",
+   "ytm": "3",
+   "convPrice": "10170",
+   "refix": "있음",
+   "refixFloor": "최저 8,136원",
+   "boardDate": "2026-10-08",
+   "issueDate": "2026-10-16",
+   "convStart": "2027-10-16",
+   "convEnd": "2031-09-16",
+   "maturity": "2031-10-16",
+   "exchangeTarget": "",
+   "rceptNo": "20261013000057",
+   "rceptDt": "2026-10-13",
+   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000057",
+   "src": "DART"
+  },
+  {
    "id": "dart-CB-00367695-36",
    "issuer": "에이전트AI",
    "market": "코스닥",
@@ -1132,31 +1157,6 @@
    "rceptDt": "2026-10-08",
    "report": "주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000695",
-   "src": "DART"
-  },
-  {
-   "id": "dart-CB-00145598-4",
-   "issuer": "이연제약",
-   "market": "코스피",
-   "kind": "CB",
-   "series": "4",
-   "method": "사모",
-   "size": "110",
-   "coupon": "0",
-   "ytm": "3",
-   "convPrice": "10170",
-   "refix": "있음",
-   "refixFloor": "최저 8,136원",
-   "boardDate": "2026-10-08",
-   "issueDate": "2026-10-16",
-   "convStart": "2027-10-16",
-   "convEnd": "2031-09-16",
-   "maturity": "2031-10-16",
-   "exchangeTarget": "",
-   "rceptNo": "20261008000687",
-   "rceptDt": "2026-10-08",
-   "report": "주요사항보고서(전환사채권발행결정)",
-   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000687",
    "src": "DART"
   },
   {
@@ -5212,6 +5212,19 @@
  ],
  "rights": [
   {
+   "id": "dart-PAID-00528791-20261013",
+   "name": "제일엠앤에스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "31000000",
+   "rceptNo": "20261013000002",
+   "rceptDt": "2026-10-13",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000002",
+   "src": "DART"
+  },
+  {
    "id": "dart-PAID-00307028-20261012",
    "name": "경남제약",
    "market": "코스닥",
@@ -5339,6 +5352,19 @@
    "rceptDt": "2026-10-12",
    "report": "[기재정정]주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000513",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00138297-20261012",
+   "name": "STX",
+   "market": "코스피",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "27200000",
+   "rceptNo": "20261012000510",
+   "rceptDt": "2026-10-12",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000510",
    "src": "DART"
   },
   {
@@ -5903,7 +5929,7 @@
    "newShares": "139507887",
    "rceptNo": "20260930000771",
    "rceptDt": "2026-09-30",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000771",
    "src": "DART"
   },
