@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T18:49:14+09:00",
+ "generatedAt": "2026-10-14T07:18:45+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -5327,7 +5327,7 @@
    "newShares": "27200000",
    "rceptNo": "20261013000428",
    "rceptDt": "2026-10-13",
-   "report": "",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000428",
    "src": "DART"
   },
@@ -5340,7 +5340,7 @@
    "newShares": "1358696",
    "rceptNo": "20261013000435",
    "rceptDt": "2026-10-13",
-   "report": "",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000435",
    "src": "DART"
   },
@@ -5353,7 +5353,7 @@
    "newShares": "3005627",
    "rceptNo": "20261013000431",
    "rceptDt": "2026-10-13",
-   "report": "",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000431",
    "src": "DART"
   },
