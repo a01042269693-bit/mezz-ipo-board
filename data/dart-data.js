@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-14T19:03:19+09:00",
+ "generatedAt": "2026-10-15T07:19:50+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -5476,6 +5476,19 @@ window.DART_DATA = {
    "rceptDt": "2026-10-14",
    "report": "주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000342",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01246742-20261014",
+   "name": "테크트랜스",
+   "market": "코넥스",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "2035279",
+   "rceptNo": "20261014000461",
+   "rceptDt": "2026-10-14",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000461",
    "src": "DART"
   },
   {
