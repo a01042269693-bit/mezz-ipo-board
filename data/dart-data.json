@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T07:19:50+09:00",
+ "generatedAt": "2026-10-15T12:58:38+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -5375,6 +5375,19 @@
  ],
  "rights": [
   {
+   "id": "dart-PAID-01588426-20261015",
+   "name": "레드엔비아",
+   "market": "비상장",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "160000",
+   "rceptNo": "20261015000043",
+   "rceptDt": "2026-10-15",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000043",
+   "src": "DART"
+  },
+  {
    "id": "dart-PAID-00122825-20261014",
    "name": "프리티",
    "market": "코스피",
@@ -10749,6 +10762,19 @@
    "rceptDt": "2026-04-16",
    "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260416000436",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01588426-20260415",
+   "name": "레드엔비아",
+   "market": "비상장",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "230000",
+   "rceptNo": "20260415000129",
+   "rceptDt": "2026-04-15",
+   "report": "",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260415000129",
    "src": "DART"
   },
   {
