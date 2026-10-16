@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-16T07:20:31+09:00",
+ "generatedAt": "2026-10-16T12:58:52+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -5437,6 +5437,26 @@ window.DART_DATA = {
   }
  ],
  "rights": [
+  {
+   "id": "dart-PAID-01042650-20261016",
+   "name": "큐리언트",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "주주배정후 실권주 일반공모",
+   "newShares": "7100000",
+   "rceptNo": "20261016000096",
+   "rceptDt": "2026-10-16",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000096",
+   "src": "DART",
+   "recordDate": "2026-10-20",
+   "subStart": "2026-11-25",
+   "subEnd": "2026-11-26",
+   "payDate": "2026-12-03",
+   "price": "14310",
+   "size": "1016",
+   "offerRcept": "20260929000233"
+  },
   {
    "id": "dart-PAID-01588426-20261015",
    "name": "레드엔비아",
