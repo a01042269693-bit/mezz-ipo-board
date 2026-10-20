@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T17:45:30+09:00",
+ "generatedAt": "2026-10-20T23:27:25+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -1135,6 +1135,31 @@
    "rceptDt": "2026-10-20",
    "report": "주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000332",
+   "src": "DART"
+  },
+  {
+   "id": "dart-CB-00106313-304",
+   "issuer": "금호건설",
+   "market": "코스피",
+   "kind": "CB",
+   "series": "304",
+   "method": "사모",
+   "size": "500",
+   "coupon": "4",
+   "ytm": "8.5",
+   "convPrice": "11839",
+   "refix": "미확인",
+   "refixFloor": "",
+   "boardDate": "2026-10-20",
+   "issueDate": "2026-10-30",
+   "convStart": "2027-10-31",
+   "convEnd": "2056-09-30",
+   "maturity": "2056-10-30",
+   "exchangeTarget": "",
+   "rceptNo": "20261020000370",
+   "rceptDt": "2026-10-20",
+   "report": "주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000370",
    "src": "DART"
   },
   {
@@ -5676,6 +5701,19 @@
    "rceptDt": "2026-10-20",
    "report": "[기재정정]주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000316",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00618410-20261020",
+   "name": "KS인더스트리",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "3117692",
+   "rceptNo": "20261020000377",
+   "rceptDt": "2026-10-20",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000377",
    "src": "DART"
   },
   {
