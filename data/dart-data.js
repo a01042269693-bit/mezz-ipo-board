@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-19T19:07:36+09:00",
+ "generatedAt": "2026-10-20T09:54:16+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -5626,6 +5626,19 @@ window.DART_DATA = {
    "rceptDt": "2026-10-19",
    "report": "[기재정정]주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000333",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01264234-20261019",
+   "name": "엘에이티",
+   "market": "코넥스",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "191909",
+   "rceptNo": "20261019000369",
+   "rceptDt": "2026-10-19",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000369",
    "src": "DART"
   },
   {
