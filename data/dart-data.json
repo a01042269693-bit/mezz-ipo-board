@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T17:46:43+09:00",
+ "generatedAt": "2026-10-21T23:36:15+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -38,6 +38,25 @@
    "rceptDt": "2026-10-21",
    "report": "증권신고서(지분증권)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000153",
+   "src": "DART"
+  },
+  {
+   "id": "dart-IPO-01705573-20261021",
+   "name": "유캐스트",
+   "market": "",
+   "subStart": "2026-11-18",
+   "subEnd": "2026-11-19",
+   "refund": "2026-11-23",
+   "finalPrice": "",
+   "bandLow": "19000",
+   "amount": "152",
+   "shares": "800000",
+   "underwriter": "유진증권",
+   "memo": "신고서상 모집가액(밴드 하단일 수 있음)",
+   "rceptNo": "20261021000443",
+   "rceptDt": "2026-10-21",
+   "report": "[기재정정]증권신고서(지분증권)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000443",
    "src": "DART"
   },
   {
@@ -1198,6 +1217,56 @@
    "rceptDt": "2026-10-21",
    "report": "주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000401",
+   "src": "DART"
+  },
+  {
+   "id": "dart-CB-00406329-7",
+   "issuer": "루멘스바이오스",
+   "market": "코스닥",
+   "kind": "CB",
+   "series": "7",
+   "method": "사모",
+   "size": "180",
+   "coupon": "0",
+   "ytm": "0",
+   "convPrice": "1142",
+   "refix": "있음",
+   "refixFloor": "최저 1,000원",
+   "boardDate": "2026-10-21",
+   "issueDate": "2026-12-11",
+   "convStart": "2027-12-11",
+   "convEnd": "2030-11-11",
+   "maturity": "2030-12-11",
+   "exchangeTarget": "",
+   "rceptNo": "20261021000431",
+   "rceptDt": "2026-10-21",
+   "report": "주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000431",
+   "src": "DART"
+  },
+  {
+   "id": "dart-CB-01381984-7",
+   "issuer": "SKAI",
+   "market": "코스닥",
+   "kind": "CB",
+   "series": "7",
+   "method": "사모",
+   "size": "228",
+   "coupon": "2",
+   "ytm": "2",
+   "convPrice": "1602",
+   "refix": "미확인",
+   "refixFloor": "",
+   "boardDate": "2026-10-21",
+   "issueDate": "2026-10-29",
+   "convStart": "2027-10-29",
+   "convEnd": "2056-09-29",
+   "maturity": "2056-10-29",
+   "exchangeTarget": "",
+   "rceptNo": "20261021000407",
+   "rceptDt": "2026-10-21",
+   "report": "주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000407",
    "src": "DART"
   },
   {
@@ -4721,7 +4790,7 @@
    "exchangeTarget": "",
    "rceptNo": "20260722000475",
    "rceptDt": "2026-07-22",
-   "report": "주요사항보고서(전환사채권발행결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260722000475",
    "src": "DART"
   },
@@ -5827,6 +5896,19 @@
    "rceptDt": "2026-10-21",
    "report": "주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000326",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00623184-20261021",
+   "name": "오늘이엔엠",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "326796",
+   "rceptNo": "20261021000422",
+   "rceptDt": "2026-10-21",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000422",
    "src": "DART"
   },
   {
