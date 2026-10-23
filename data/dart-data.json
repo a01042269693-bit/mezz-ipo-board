@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T23:37:35+09:00",
+ "generatedAt": "2026-10-23T09:23:19+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -5915,6 +5915,19 @@
   }
  ],
  "rights": [
+  {
+   "id": "dart-PAID-01494118-20261023",
+   "name": "노을",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "1100000",
+   "rceptNo": "20261023000005",
+   "rceptDt": "2026-10-23",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000005",
+   "src": "DART"
+  },
   {
    "id": "dart-PAID-00104120-20261022",
    "name": "광진실업",
