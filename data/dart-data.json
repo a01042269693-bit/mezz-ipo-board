@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T17:44:56+09:00",
+ "generatedAt": "2026-10-23T23:22:06+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -19,6 +19,25 @@
    "rceptDt": "2026-10-23",
    "report": "[기재정정]증권신고서(지분증권)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000331",
+   "src": "DART"
+  },
+  {
+   "id": "dart-IPO-01950720-20261023",
+   "name": "제논",
+   "market": "",
+   "subStart": "2026-11-04",
+   "subEnd": "2026-11-05",
+   "refund": "2026-11-09",
+   "finalPrice": "",
+   "bandLow": "9700",
+   "amount": "213",
+   "shares": "2200000",
+   "underwriter": "삼성증권",
+   "memo": "신고서상 모집가액(밴드 하단일 수 있음)",
+   "rceptNo": "20261023000486",
+   "rceptDt": "2026-10-23",
+   "report": "[기재정정]증권신고서(지분증권)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000486",
    "src": "DART"
   },
   {
