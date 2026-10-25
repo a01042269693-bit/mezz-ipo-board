@@ -1,7 +1,26 @@
 {
- "generatedAt": "2026-10-23T23:22:06+09:00",
+ "generatedAt": "2026-10-26T08:46:24+09:00",
  "lookbackDays": 10,
  "ipos": [
+  {
+   "id": "dart-IPO-01950720-20261026",
+   "name": "제논",
+   "market": "",
+   "subStart": "2026-11-24",
+   "subEnd": "2026-11-25",
+   "refund": "2026-11-27",
+   "finalPrice": "",
+   "bandLow": "9700",
+   "amount": "213",
+   "shares": "2200000",
+   "underwriter": "삼성증권",
+   "memo": "신고서상 모집가액(밴드 하단일 수 있음)",
+   "rceptNo": "20261026000001",
+   "rceptDt": "2026-10-26",
+   "report": "[기재정정]증권신고서(지분증권)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000001",
+   "src": "DART"
+  },
   {
    "id": "dart-IPO-00784184-20261023",
    "name": "동원파츠",
@@ -321,7 +340,7 @@
    "memo": "신고서상 모집가액(밴드 하단일 수 있음)",
    "rceptNo": "20261014000436",
    "rceptDt": "2026-10-14",
-   "report": "[기재정정]증권신고서(지분증권)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000436",
    "src": "DART"
   },
@@ -6631,7 +6650,7 @@
    "newShares": "4000000",
    "rceptNo": "20261014000274",
    "rceptDt": "2026-10-14",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000274",
    "src": "DART"
   },
@@ -6774,7 +6793,7 @@
    "newShares": "685166",
    "rceptNo": "20261013000136",
    "rceptDt": "2026-10-13",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000136",
    "src": "DART"
   },
@@ -6872,7 +6891,7 @@
    "newShares": "2347417",
    "rceptNo": "20261012000509",
    "rceptDt": "2026-10-12",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000509",
    "src": "DART"
   },
