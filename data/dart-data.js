@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-26T18:13:16+09:00",
+ "generatedAt": "2026-10-27T01:16:47+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -1220,6 +1220,31 @@ window.DART_DATA = {
   }
  ],
  "mezz": [
+  {
+   "id": "dart-CB-00602279-6",
+   "issuer": "그린플러스",
+   "market": "코스닥",
+   "kind": "CB",
+   "series": "6",
+   "method": "사모",
+   "size": "100",
+   "coupon": "2",
+   "ytm": "8",
+   "convPrice": "3699",
+   "refix": "있음",
+   "refixFloor": "최저 2,590원",
+   "boardDate": "2026-10-26",
+   "issueDate": "2026-11-25",
+   "convStart": "2027-11-25",
+   "convEnd": "2029-10-25",
+   "maturity": "2029-11-25",
+   "exchangeTarget": "",
+   "rceptNo": "20261026000394",
+   "rceptDt": "2026-10-26",
+   "report": "주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000394",
+   "src": "DART"
+  },
   {
    "id": "dart-CB-00563518-5",
    "issuer": "비나텍",
@@ -6060,6 +6085,45 @@ window.DART_DATA = {
    "rceptDt": "2026-10-26",
    "report": "주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000213",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00367695-20261026",
+   "name": "에이전트AI",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "3426334",
+   "rceptNo": "20261026000355",
+   "rceptDt": "2026-10-26",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000355",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00602279-20261026",
+   "name": "그린플러스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "3034900",
+   "rceptNo": "20261026000393",
+   "rceptDt": "2026-10-26",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000393",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00963000-20261026",
+   "name": "썬테크",
+   "market": "코넥스",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "113074",
+   "rceptNo": "20261026000385",
+   "rceptDt": "2026-10-26",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000385",
    "src": "DART"
   },
   {
