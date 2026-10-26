@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-26T08:46:24+09:00",
+ "generatedAt": "2026-10-26T18:13:16+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -5998,6 +5998,71 @@ window.DART_DATA = {
  ],
  "rights": [
   {
+   "id": "dart-PAID-00364254-20261026",
+   "name": "알티캐스트",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "1231404",
+   "rceptNo": "20261026000327",
+   "rceptDt": "2026-10-26",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000327",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00545929-20261026",
+   "name": "제넥신",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "",
+   "rceptNo": "20261026000363",
+   "rceptDt": "2026-10-26",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000363",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00608839-20261026",
+   "name": "에이루트",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "349362",
+   "rceptNo": "20261026000266",
+   "rceptDt": "2026-10-26",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000266",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00615723-20261026",
+   "name": "MSDI",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "589448",
+   "rceptNo": "20261026000212",
+   "rceptDt": "2026-10-26",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000212",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01110474-20261026",
+   "name": "풍전약품",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "1200000",
+   "rceptNo": "20261026000213",
+   "rceptDt": "2026-10-26",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000213",
+   "src": "DART"
+  },
+  {
    "id": "dart-PAID-01494118-20261023",
    "name": "노을",
    "market": "코스닥",
@@ -10258,7 +10323,7 @@ window.DART_DATA = {
    "newShares": "1659856",
    "rceptNo": "20260818000324",
    "rceptDt": "2026-08-18",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818000324",
    "src": "DART"
   },
@@ -11083,7 +11148,7 @@ window.DART_DATA = {
    "newShares": "892857",
    "rceptNo": "20260728000494",
    "rceptDt": "2026-07-28",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260728000494",
    "src": "DART"
   },
@@ -11692,6 +11757,19 @@ window.DART_DATA = {
    "rceptDt": "2026-06-11",
    "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260611000622",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01110474-20260610",
+   "name": "풍전약품",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "796812",
+   "rceptNo": "20260610000542",
+   "rceptDt": "2026-06-10",
+   "report": "",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610000542",
    "src": "DART"
   },
   {
