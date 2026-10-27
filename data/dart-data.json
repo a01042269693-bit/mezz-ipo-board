@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T01:16:47+09:00",
+ "generatedAt": "2026-10-27T10:04:43+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -6023,6 +6023,19 @@
  ],
  "rights": [
   {
+   "id": "dart-PAID-01195624-20261027",
+   "name": "뉴스테이허브제2호위탁관리부동산투자회사",
+   "market": "비상장",
+   "kind": "유상증자",
+   "method": "주주배정증자",
+   "newShares": "718000",
+   "rceptNo": "20261027000048",
+   "rceptDt": "2026-10-27",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000048",
+   "src": "DART"
+  },
+  {
    "id": "dart-PAID-00364254-20261026",
    "name": "알티캐스트",
    "market": "코스닥",
@@ -7471,7 +7484,7 @@
    "newShares": "152500",
    "rceptNo": "20261002000284",
    "rceptDt": "2026-10-02",
-   "report": "주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000284",
    "src": "DART"
   },
