@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T18:13:41+09:00",
+ "generatedAt": "2026-10-28T00:30:46+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -1528,6 +1528,31 @@
    "src": "DART"
   },
   {
+   "id": "dart-CB-01275665-4",
+   "issuer": "리메드",
+   "market": "코스닥",
+   "kind": "CB",
+   "series": "4",
+   "method": "사모",
+   "size": "100",
+   "coupon": "1",
+   "ytm": "5",
+   "convPrice": "2774",
+   "refix": "미확인",
+   "refixFloor": "",
+   "boardDate": "2026-10-14",
+   "issueDate": "2026-11-04",
+   "convStart": "2027-11-05",
+   "convEnd": "2031-10-04",
+   "maturity": "2031-11-04",
+   "exchangeTarget": "",
+   "rceptNo": "20261027000389",
+   "rceptDt": "2026-10-27",
+   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000389",
+   "src": "DART"
+  },
+  {
    "id": "dart-CB-00563518-5",
    "issuer": "비나텍",
    "market": "코스닥",
@@ -1875,31 +1900,6 @@
    "rceptDt": "2026-10-20",
    "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000190",
-   "src": "DART"
-  },
-  {
-   "id": "dart-CB-01275665-4",
-   "issuer": "리메드",
-   "market": "코스닥",
-   "kind": "CB",
-   "series": "4",
-   "method": "사모",
-   "size": "100",
-   "coupon": "1",
-   "ytm": "5",
-   "convPrice": "2774",
-   "refix": "미확인",
-   "refixFloor": "",
-   "boardDate": "2026-10-14",
-   "issueDate": "2026-10-27",
-   "convStart": "2027-10-28",
-   "convEnd": "2031-09-27",
-   "maturity": "2031-10-27",
-   "exchangeTarget": "",
-   "rceptNo": "20261019000366",
-   "rceptDt": "2026-10-19",
-   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
-   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000366",
    "src": "DART"
   },
   {
