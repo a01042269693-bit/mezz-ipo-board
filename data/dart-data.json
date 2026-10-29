@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T19:17:21+09:00",
+ "generatedAt": "2026-10-30T01:22:32+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -1511,7 +1511,7 @@
    "exchangeTarget": "",
    "rceptNo": "20261029000672",
    "rceptDt": "2026-10-29",
-   "report": "",
+   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000672",
    "src": "DART"
   },
@@ -1536,7 +1536,7 @@
    "exchangeTarget": "",
    "rceptNo": "20261029000673",
    "rceptDt": "2026-10-29",
-   "report": "",
+   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000673",
    "src": "DART"
   },
@@ -1638,6 +1638,31 @@
    "rceptDt": "2026-10-29",
    "report": "주요사항보고서(신주인수권부사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000401",
+   "src": "DART"
+  },
+  {
+   "id": "dart-CB-01022902-12",
+   "issuer": "애드바이오텍",
+   "market": "코스닥",
+   "kind": "CB",
+   "series": "12",
+   "method": "사모",
+   "size": "10",
+   "coupon": "6",
+   "ytm": "6",
+   "convPrice": "1999",
+   "refix": "미확인",
+   "refixFloor": "",
+   "boardDate": "2026-10-29",
+   "issueDate": "2026-11-06",
+   "convStart": "2027-11-06",
+   "convEnd": "2029-10-06",
+   "maturity": "2029-11-06",
+   "exchangeTarget": "",
+   "rceptNo": "20261029000674",
+   "rceptDt": "2026-10-29",
+   "report": "주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000674",
    "src": "DART"
   },
   {
@@ -6494,6 +6519,19 @@
    "src": "DART"
   },
   {
+   "id": "dart-PAID-01284751-20261029",
+   "name": "시지트로닉스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "762195",
+   "rceptNo": "20261029000669",
+   "rceptDt": "2026-10-29",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000669",
+   "src": "DART"
+  },
+  {
    "id": "dart-PAID-00130587-20261028",
    "name": "서울전자통신",
    "market": "코스닥",
@@ -7295,7 +7333,7 @@
    "newShares": "",
    "rceptNo": "20261016000204",
    "rceptDt": "2026-10-16",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000204",
    "src": "DART"
   },
