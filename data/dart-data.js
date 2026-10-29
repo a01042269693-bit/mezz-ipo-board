@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-29T01:15:49+09:00",
+ "generatedAt": "2026-10-29T10:30:47+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -6217,6 +6217,19 @@ window.DART_DATA = {
   }
  ],
  "rights": [
+  {
+   "id": "dart-PAID-00104120-20261029",
+   "name": "광진실업",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "1047122",
+   "rceptNo": "20261029000002",
+   "rceptDt": "2026-10-29",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000002",
+   "src": "DART"
+  },
   {
    "id": "dart-PAID-00130587-20261028",
    "name": "서울전자통신",
