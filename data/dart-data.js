@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-30T01:22:32+09:00",
+ "generatedAt": "2026-10-30T10:32:27+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -6343,6 +6343,19 @@ window.DART_DATA = {
  ],
  "rights": [
   {
+   "id": "dart-PAID-00266961-20261030",
+   "name": "NAVER",
+   "market": "코스피",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "7241564",
+   "rceptNo": "20261030000001",
+   "rceptDt": "2026-10-30",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000001",
+   "src": "DART"
+  },
+  {
    "id": "dart-PAID-00104120-20261029",
    "name": "광진실업",
    "market": "코스닥",
@@ -7896,6 +7909,25 @@ window.DART_DATA = {
    "report": "[기재정정]주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000384",
    "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01649408-20261008",
+   "name": "인텔리빅스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "일반공모",
+   "rceptNo": "20261008000310",
+   "rceptDt": "2026-10-08",
+   "report": "",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000310",
+   "src": "DART",
+   "recordDate": "",
+   "subStart": "2026-10-21",
+   "subEnd": "2026-10-22",
+   "payDate": "2026-10-26",
+   "price": "7600",
+   "size": "190",
+   "offerRcept": "20261008000310"
   },
   {
    "id": "dart-FREE-00605124-2026-10-22",
