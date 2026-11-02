@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-10-31T01:10:43+09:00",
+ "generatedAt": "2026-11-02T10:13:15+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -245,7 +245,7 @@ window.DART_DATA = {
    "memo": "신고서상 모집가액(밴드 하단일 수 있음)",
    "rceptNo": "20261021000210",
    "rceptDt": "2026-10-21",
-   "report": "[기재정정]증권신고서(지분증권)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000210",
    "src": "DART"
   },
