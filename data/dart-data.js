@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-11-05T02:26:24+09:00",
+ "generatedAt": "2026-11-05T10:58:52+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -6645,6 +6645,19 @@ window.DART_DATA = {
  ],
  "rights": [
   {
+   "id": "dart-PAID-00276083-20261105",
+   "name": "피노",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "",
+   "rceptNo": "20261105000001",
+   "rceptDt": "2026-11-05",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000001",
+   "src": "DART"
+  },
+  {
    "id": "dart-PAID-01635308-20261104",
    "name": "케이솔루션",
    "market": "비상장",
@@ -11339,7 +11352,7 @@ window.DART_DATA = {
    "newShares": "2691066",
    "rceptNo": "20260828001955",
    "rceptDt": "2026-08-28",
-   "report": "주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260828001955",
    "src": "DART"
   },
