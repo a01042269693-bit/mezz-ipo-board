@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-11-06T20:16:28+09:00",
+ "generatedAt": "2026-11-07T01:54:32+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -2382,7 +2382,7 @@ window.DART_DATA = {
    "exchangeTarget": "",
    "rceptNo": "20261027000318",
    "rceptDt": "2026-10-27",
-   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000318",
    "src": "DART"
   },
