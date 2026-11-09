@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-11-07T01:54:32+09:00",
+ "generatedAt": "2026-11-09T10:25:04+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -1487,6 +1487,31 @@ window.DART_DATA = {
  ],
  "mezz": [
   {
+   "id": "dart-CB-00838005-45",
+   "issuer": "서진시스템",
+   "market": "코스닥",
+   "kind": "CB",
+   "series": "45",
+   "method": "사모",
+   "size": "600",
+   "coupon": "2",
+   "ytm": "5",
+   "convPrice": "30391",
+   "refix": "미확인",
+   "refixFloor": "",
+   "boardDate": "2026-11-06",
+   "issueDate": "2026-11-16",
+   "convStart": "2027-11-16",
+   "convEnd": "2056-10-16",
+   "maturity": "2056-11-16",
+   "exchangeTarget": "",
+   "rceptNo": "20261109000003",
+   "rceptDt": "2026-11-09",
+   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000003",
+   "src": "DART"
+  },
+  {
    "id": "dart-CB-01406265-1",
    "issuer": "와이랩",
    "market": "코스닥",
@@ -1584,6 +1609,31 @@ window.DART_DATA = {
    "rceptDt": "2026-11-06",
    "report": "주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000150",
+   "src": "DART"
+  },
+  {
+   "id": "dart-CB-00838005-44",
+   "issuer": "서진시스템",
+   "market": "코스닥",
+   "kind": "CB",
+   "series": "44",
+   "method": "사모",
+   "size": "600",
+   "coupon": "0",
+   "ytm": "2",
+   "convPrice": "33430",
+   "refix": "있음",
+   "refixFloor": "최저 26,744원",
+   "boardDate": "2026-11-06",
+   "issueDate": "2026-11-16",
+   "convStart": "2027-11-16",
+   "convEnd": "2030-10-16",
+   "maturity": "2030-11-16",
+   "exchangeTarget": "",
+   "rceptNo": "20261106000481",
+   "rceptDt": "2026-11-06",
+   "report": "주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000481",
    "src": "DART"
   },
   {
@@ -4332,7 +4382,7 @@ window.DART_DATA = {
    "exchangeTarget": "",
    "rceptNo": "20260901000180",
    "rceptDt": "2026-09-01",
-   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000180",
    "src": "DART"
   },
@@ -4357,7 +4407,7 @@ window.DART_DATA = {
    "exchangeTarget": "",
    "rceptNo": "20260901000219",
    "rceptDt": "2026-09-01",
-   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260901000219",
    "src": "DART"
   },
@@ -4557,7 +4607,7 @@ window.DART_DATA = {
    "exchangeTarget": "",
    "rceptNo": "20260824000337",
    "rceptDt": "2026-08-24",
-   "report": "주요사항보고서(전환사채권발행결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824000337",
    "src": "DART"
   },
@@ -4582,7 +4632,7 @@ window.DART_DATA = {
    "exchangeTarget": "",
    "rceptNo": "20260824000325",
    "rceptDt": "2026-08-24",
-   "report": "주요사항보고서(전환사채권발행결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824000325",
    "src": "DART"
   },
@@ -7368,7 +7418,7 @@ window.DART_DATA = {
    "newShares": "1047122",
    "rceptNo": "20261029000002",
    "rceptDt": "2026-10-29",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000002",
    "src": "DART"
   },
@@ -7531,7 +7581,7 @@ window.DART_DATA = {
    "newShares": "1102973",
    "rceptNo": "20261029000334",
    "rceptDt": "2026-10-29",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000334",
    "src": "DART"
   },
@@ -7583,7 +7633,7 @@ window.DART_DATA = {
    "newShares": "574414",
    "rceptNo": "20261028000301",
    "rceptDt": "2026-10-28",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000301",
    "src": "DART"
   },
