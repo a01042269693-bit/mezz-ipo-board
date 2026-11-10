@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T04:58:43+09:00",
+ "generatedAt": "2026-11-10T12:57:26+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -1525,6 +1525,31 @@
  ],
  "mezz": [
   {
+   "id": "dart-CB-00561723-1",
+   "issuer": "쏘닉스",
+   "market": "코스닥",
+   "kind": "CB",
+   "series": "1",
+   "method": "사모",
+   "size": "",
+   "coupon": "",
+   "ytm": "",
+   "convPrice": "",
+   "refix": "미확인",
+   "refixFloor": "",
+   "boardDate": "",
+   "issueDate": "",
+   "convStart": "",
+   "convEnd": "",
+   "maturity": "",
+   "exchangeTarget": "",
+   "rceptNo": "20261110000004",
+   "rceptDt": "2026-11-10",
+   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000004",
+   "src": "DART"
+  },
+  {
    "id": "dart-CB-00838005-45",
    "issuer": "서진시스템",
    "market": "코스닥",
@@ -2297,31 +2322,6 @@
    "rceptDt": "2026-10-29",
    "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000429",
-   "src": "DART"
-  },
-  {
-   "id": "dart-CB-00561723-1",
-   "issuer": "쏘닉스",
-   "market": "코스닥",
-   "kind": "CB",
-   "series": "1",
-   "method": "사모",
-   "size": "100",
-   "coupon": "0",
-   "ytm": "0",
-   "convPrice": "4813",
-   "refix": "미확인",
-   "refixFloor": "",
-   "boardDate": "2026-10-29",
-   "issueDate": "2026-11-09",
-   "convStart": "2027-11-09",
-   "convEnd": "2031-10-09",
-   "maturity": "2031-11-09",
-   "exchangeTarget": "",
-   "rceptNo": "20261029000654",
-   "rceptDt": "2026-10-29",
-   "report": "주요사항보고서(전환사채권발행결정)",
-   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000654",
    "src": "DART"
   },
   {
@@ -6827,6 +6827,19 @@
  ],
  "rights": [
   {
+   "id": "dart-PAID-01440153-20261110",
+   "name": "넥사다이내믹스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "8264463",
+   "rceptNo": "20261110000080",
+   "rceptDt": "2026-11-10",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000080",
+   "src": "DART"
+  },
+  {
    "id": "dart-PAID-00125576-20261109",
    "name": "체시스",
    "market": "코스피",
@@ -10997,7 +11010,7 @@
    "newShares": "1308900",
    "rceptNo": "20260911000372",
    "rceptDt": "2026-09-11",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911000372",
    "src": "DART"
   },
