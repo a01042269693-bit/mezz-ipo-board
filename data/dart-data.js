@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-11-13T11:22:01+09:00",
+ "generatedAt": "2026-11-13T20:21:23+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -1657,6 +1657,31 @@ window.DART_DATA = {
   }
  ],
  "mezz": [
+  {
+   "id": "dart-CB-01327746-5",
+   "issuer": "보로노이",
+   "market": "코스닥",
+   "kind": "CB",
+   "series": "5",
+   "method": "사모",
+   "size": "527",
+   "coupon": "0",
+   "ytm": "2",
+   "convPrice": "111510",
+   "refix": "있음",
+   "refixFloor": "최저 78,057원",
+   "boardDate": "2026-11-13",
+   "issueDate": "2026-11-23",
+   "convStart": "2027-11-23",
+   "convEnd": "2031-10-23",
+   "maturity": "2031-11-23",
+   "exchangeTarget": "",
+   "rceptNo": "20261113001035",
+   "rceptDt": "2026-11-13",
+   "report": "주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001035",
+   "src": "DART"
+  },
   {
    "id": "dart-CB-01022902-10",
    "issuer": "애드바이오텍",
@@ -7035,6 +7060,32 @@ window.DART_DATA = {
  ],
  "rights": [
   {
+   "id": "dart-PAID-00403793-20261113",
+   "name": "바이브컴퍼니",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "1827628",
+   "rceptNo": "20261113000828",
+   "rceptDt": "2026-11-13",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000828",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00781202-20261113",
+   "name": "파이온엑스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "일반공모증자",
+   "newShares": "1912045",
+   "rceptNo": "20261113001053",
+   "rceptDt": "2026-11-13",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001053",
+   "src": "DART"
+  },
+  {
    "id": "dart-PAID-00360744-20261112",
    "name": "휘라포토닉스",
    "market": "비상장",
@@ -7053,11 +7104,11 @@ window.DART_DATA = {
    "market": "코스닥",
    "kind": "유상증자",
    "method": "제3자배정증자",
-   "newShares": "2346938",
-   "rceptNo": "20261112000665",
+   "newShares": "3840245",
+   "rceptNo": "20261112000633",
    "rceptDt": "2026-11-12",
    "report": "주요사항보고서(유상증자결정)",
-   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000665",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000633",
    "src": "DART"
   },
   {
@@ -8298,7 +8349,7 @@ window.DART_DATA = {
    "newShares": "718000",
    "rceptNo": "20261027000048",
    "rceptDt": "2026-10-27",
-   "report": "주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000048",
    "src": "DART"
   },
@@ -10012,11 +10063,11 @@ window.DART_DATA = {
    "market": "코스닥",
    "kind": "유상증자",
    "method": "제3자배정증자",
-   "newShares": "20000000",
-   "rceptNo": "20260930000221",
+   "newShares": "12707565",
+   "rceptNo": "20260930000197",
    "rceptDt": "2026-09-30",
-   "report": "주요사항보고서(유상증자결정)",
-   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000221",
+   "report": "",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000197",
    "src": "DART"
   },
   {
