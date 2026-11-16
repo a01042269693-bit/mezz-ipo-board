@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-11-16T20:51:44+09:00",
+ "generatedAt": "2026-11-17T04:47:25+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -7098,6 +7098,45 @@ window.DART_DATA = {
    "offerRcept": "20261116001145"
   },
   {
+   "id": "dart-PAID-00357360-20261116",
+   "name": "한세엠케이",
+   "market": "코스피",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "10455564",
+   "rceptNo": "20261116002004",
+   "rceptDt": "2026-11-16",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116002004",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-00965813-20261116",
+   "name": "미투온",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "9817118",
+   "rceptNo": "20261116001506",
+   "rceptDt": "2026-11-16",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001506",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01576704-20261116",
+   "name": "럭스로보",
+   "market": "비상장",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "",
+   "rceptNo": "20261116001647",
+   "rceptDt": "2026-11-16",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001647",
+   "src": "DART"
+  },
+  {
    "id": "dart-PAID-00403793-20261113",
    "name": "바이브컴퍼니",
    "market": "코스닥",
@@ -7562,7 +7601,7 @@ window.DART_DATA = {
    "newShares": "11166945",
    "rceptNo": "20261106000424",
    "rceptDt": "2026-11-06",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000424",
    "src": "DART"
   },
