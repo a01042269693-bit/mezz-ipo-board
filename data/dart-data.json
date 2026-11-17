@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T21:13:20+09:00",
+ "generatedAt": "2026-11-18T03:43:23+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -1804,7 +1804,7 @@
    "exchangeTarget": "",
    "rceptNo": "20261117000265",
    "rceptDt": "2026-11-17",
-   "report": "",
+   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000265",
    "src": "DART"
   },
@@ -1831,6 +1831,31 @@
    "rceptDt": "2026-11-17",
    "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000152",
+   "src": "DART"
+  },
+  {
+   "id": "dart-CB-01689266-1",
+   "issuer": "케이쓰리아이",
+   "market": "코스닥",
+   "kind": "CB",
+   "series": "1",
+   "method": "사모",
+   "size": "150",
+   "coupon": "2",
+   "ytm": "6",
+   "convPrice": "3873",
+   "refix": "있음",
+   "refixFloor": "최저 2,712원",
+   "boardDate": "2026-09-23",
+   "issueDate": "2026-11-19",
+   "convStart": "2027-11-19",
+   "convEnd": "2031-10-19",
+   "maturity": "2031-11-19",
+   "exchangeTarget": "",
+   "rceptNo": "20261117000264",
+   "rceptDt": "2026-11-17",
+   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000264",
    "src": "DART"
   },
   {
@@ -3306,31 +3331,6 @@
    "rceptDt": "2026-10-21",
    "report": "주요사항보고서(전환사채권발행결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000407",
-   "src": "DART"
-  },
-  {
-   "id": "dart-CB-01689266-1",
-   "issuer": "케이쓰리아이",
-   "market": "코스닥",
-   "kind": "CB",
-   "series": "1",
-   "method": "사모",
-   "size": "150",
-   "coupon": "2",
-   "ytm": "6",
-   "convPrice": "3873",
-   "refix": "있음",
-   "refixFloor": "최저 2,712원",
-   "boardDate": "2026-09-23",
-   "issueDate": "2026-11-19",
-   "convStart": "2027-11-19",
-   "convEnd": "2031-10-19",
-   "maturity": "2031-11-19",
-   "exchangeTarget": "",
-   "rceptNo": "20261020000190",
-   "rceptDt": "2026-10-20",
-   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
-   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000190",
    "src": "DART"
   },
   {
@@ -7219,7 +7219,7 @@
    "newShares": "2200000",
    "rceptNo": "20261117000263",
    "rceptDt": "2026-11-17",
-   "report": "",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000263",
    "src": "DART"
   },
