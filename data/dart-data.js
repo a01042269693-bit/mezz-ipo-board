@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-11-18T21:00:41+09:00",
+ "generatedAt": "2026-11-19T03:19:22+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -7434,6 +7434,19 @@ window.DART_DATA = {
    "price": "1060",
    "size": "51",
    "offerRcept": "20261118000242"
+  },
+  {
+   "id": "dart-PAID-01170962-20261118",
+   "name": "GRT",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "15009000",
+   "rceptNo": "20261118000366",
+   "rceptDt": "2026-11-18",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000366",
+   "src": "DART"
   },
   {
    "id": "dart-PAID-00103547-20261117",
