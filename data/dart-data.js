@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-11-23T22:24:16+09:00",
+ "generatedAt": "2026-11-24T06:37:30+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -7876,7 +7876,7 @@ window.DART_DATA = {
    "newShares": "1912045",
    "rceptNo": "20261113001053",
    "rceptDt": "2026-11-13",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001053",
    "src": "DART"
   },
