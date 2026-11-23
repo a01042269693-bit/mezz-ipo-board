@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-11-23T11:10:57+09:00",
+ "generatedAt": "2026-11-23T22:24:16+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -7368,6 +7368,91 @@ window.DART_DATA = {
  ],
  "rights": [
   {
+   "id": "dart-PAID-00231691-20261123",
+   "name": "판타지오",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "일반공모증자",
+   "newShares": "",
+   "rceptNo": "20261123000297",
+   "rceptDt": "2026-11-23",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000297",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01042650-20261123",
+   "name": "큐리언트",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "주주배정후 실권주 일반공모",
+   "newShares": "7100000",
+   "rceptNo": "20261123000278",
+   "rceptDt": "2026-11-23",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000278",
+   "src": "DART",
+   "recordDate": "2026-10-20",
+   "subStart": "2026-11-25",
+   "subEnd": "2026-11-26",
+   "payDate": "2026-12-03",
+   "price": "14900",
+   "size": "1058",
+   "offerRcept": "20261106000409"
+  },
+  {
+   "id": "dart-PAID-01085442-20261123",
+   "name": "오건에코텍",
+   "market": "코넥스",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "2769231",
+   "rceptNo": "20261123000187",
+   "rceptDt": "2026-11-23",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000187",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01235296-20261123",
+   "name": "셀리드",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "5753739",
+   "rceptNo": "20261123000258",
+   "rceptDt": "2026-11-23",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000258",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01397903-20261123",
+   "name": "엔젠바이오",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "2000000",
+   "rceptNo": "20261123000390",
+   "rceptDt": "2026-11-23",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000390",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01453944-20261123",
+   "name": "벡트로보틱스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "730460",
+   "rceptNo": "20261123000342",
+   "rceptDt": "2026-11-23",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000342",
+   "src": "DART"
+  },
+  {
    "id": "dart-PAID-00125822-20261120",
    "name": "삼보산업",
    "market": "코스닥",
@@ -8055,7 +8140,7 @@ window.DART_DATA = {
    "newShares": "6000000",
    "rceptNo": "20261110000237",
    "rceptDt": "2026-11-10",
-   "report": "주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000237",
    "src": "DART"
   },
@@ -8068,7 +8153,7 @@ window.DART_DATA = {
    "newShares": "4360795",
    "rceptNo": "20261110000371",
    "rceptDt": "2026-11-10",
-   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000371",
    "src": "DART"
   },
