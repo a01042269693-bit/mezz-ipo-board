@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-11-21T02:56:56+09:00",
+ "generatedAt": "2026-11-23T11:10:57+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -7843,7 +7843,7 @@ window.DART_DATA = {
    "newShares": "3840245",
    "rceptNo": "20261112000633",
    "rceptDt": "2026-11-12",
-   "report": "주요사항보고서(유상증자결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000633",
    "src": "DART"
   },
@@ -14829,6 +14829,19 @@ window.DART_DATA = {
    "rceptDt": "2026-07-07",
    "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707000294",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01228515-20260707",
+   "name": "앱튼",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "3500000",
+   "rceptNo": "20260707000259",
+   "rceptDt": "2026-07-07",
+   "report": "",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707000259",
    "src": "DART"
   },
   {
