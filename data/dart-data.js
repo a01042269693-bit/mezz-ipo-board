@@ -1,5 +1,5 @@
 window.DART_DATA = {
- "generatedAt": "2026-11-24T06:37:30+09:00",
+ "generatedAt": "2026-11-24T14:43:57+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -7367,6 +7367,32 @@ window.DART_DATA = {
   }
  ],
  "rights": [
+  {
+   "id": "dart-PAID-01141599-20261124",
+   "name": "아리바이오LAB",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "5196304",
+   "rceptNo": "20261124000146",
+   "rceptDt": "2026-11-24",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000146",
+   "src": "DART"
+  },
+  {
+   "id": "dart-PAID-01492217-20261124",
+   "name": "엑셀세라퓨틱스",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "5018818",
+   "rceptNo": "20261124000227",
+   "rceptDt": "2026-11-24",
+   "report": "[기재정정]주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000227",
+   "src": "DART"
+  },
   {
    "id": "dart-PAID-00231691-20261123",
    "name": "판타지오",
