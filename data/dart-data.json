@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T05:17:45+09:00",
+ "generatedAt": "2026-11-25T13:45:45+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -7405,6 +7405,23 @@
   }
  ],
  "rights": [
+  {
+   "id": "dart-FREE-01141942-2026-12-11",
+   "name": "액트로",
+   "market": "코스닥",
+   "kind": "무상증자",
+   "method": "",
+   "ratio": "1",
+   "newShares": "9571470",
+   "recordDate": "2026-12-11",
+   "listingDate": "2026-12-30",
+   "boardDate": "2026-11-25",
+   "rceptNo": "20261125000185",
+   "rceptDt": "2026-11-25",
+   "report": "주요사항보고서(무상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000185",
+   "src": "DART"
+  },
   {
    "id": "dart-PAID-01141599-20261124",
    "name": "아리바이오LAB",
