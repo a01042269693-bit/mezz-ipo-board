@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T04:32:07+09:00",
+ "generatedAt": "2026-11-26T12:55:42+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -7443,6 +7443,19 @@
   }
  ],
  "rights": [
+  {
+   "id": "dart-PAID-01498576-20261126",
+   "name": "유디엠텍",
+   "market": "코스닥",
+   "kind": "유상증자",
+   "method": "제3자배정증자",
+   "newShares": "1031636",
+   "rceptNo": "20261126000229",
+   "rceptDt": "2026-11-26",
+   "report": "주요사항보고서(유상증자결정)",
+   "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000229",
+   "src": "DART"
+  },
   {
    "id": "dart-FREE-01141942-2026-12-11",
    "name": "액트로",
