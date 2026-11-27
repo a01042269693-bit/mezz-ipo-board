@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T21:53:51+09:00",
+ "generatedAt": "2026-11-28T04:08:27+09:00",
  "lookbackDays": 10,
  "ipos": [
   {
@@ -2631,7 +2631,7 @@
    "exchangeTarget": "",
    "rceptNo": "20261117000260",
    "rceptDt": "2026-11-17",
-   "report": "[기재정정]주요사항보고서(전환사채권발행결정)",
+   "report": "",
    "dartUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000260",
    "src": "DART"
   },
